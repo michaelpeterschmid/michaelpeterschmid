@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Michael, and I'm a Data Engineering student at BFH intersted in building smart applications/systems.
+
+- 🔭 Explore some of my pinned repositories below this section
+- 🌱 I’m currently learning Machine Learning fundamentals and the math behind it
+- 📫 How to reach me: michaelpeter.schmid17@gmail.com
 <!--
 **michaelpeterschmid/michaelpeterschmid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
