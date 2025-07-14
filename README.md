@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Michael, and I'm a Data Engineering student at BFH intersted in building smart applications/systems.
+My name is Michael, and I'm a Data Engineering student at BFH intersted in building smart systems and exploring real-world applications of data.
 
 - 🔭 Explore some of my pinned repositories below this section
 - 🌱 I’m currently learning Machine Learning fundamentals and the math behind it
